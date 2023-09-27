@@ -1,5 +1,8 @@
 ## HumSte (Stephan Björck)
-Systems developer at Humanities Lab, Lund University
+### Systems developer at Humanities Lab, Lund University
+- Mobile & Web
+- Vue, JavaScript, Swift, Kotlin
+- Android Studio, Xcode, Visual Studio Code
 
 ### Projects
 
