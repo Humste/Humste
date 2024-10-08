@@ -6,7 +6,8 @@
 
 ### Projects
 
-- [Huminfra](https://www.huminfra.se?l=en) 
+- [Huminfra](https://www.huminfra.se?l=en)
+- [LTA-Vis flutter](https://github.com/Humste/flutter_lta_vis)
 - [Lang-Track-App](https://github.com/HumlabLu/HumlabLu), [Android](https://play.google.com/store/apps/details?id=se.lu.humlab.langtrackapp), [iPhone](https://apps.apple.com/se/app/lang-track-app/id1500420448), [Repo](https://github.com/HumlabLu/HumlabLu)
 - [VeramLight](https://www.eat.lth.se/veram/), [web](https://veramdclu-515ae.web.app/login), [Android](https://play.google.com/store/apps/details?id=se.lu.veramlight&hl=en_US&gl=US), [iPhone](https://apps.apple.com/se/app/veramlight/id1549378358)
 <!--
