@@ -8,6 +8,7 @@
 
 - [Huminfra](https://www.huminfra.se?l=en)
 - [LTA Voice Recorder](https://lang-track-app.web.app/), [Repo](https://github.com/Humste/lta-voice-recorder)
+- [LTA Config Creator]([https://github.com/Humste/LtaConfigCreator](https://lta-vis.web.app/)), [Repo](https://github.com/Humste/LtaConfigCreator)
 - [Lang-Track-App](https://github.com/HumlabLu/HumlabLu), [Android](https://play.google.com/store/apps/details?id=se.lu.humlab.langtrackapp), [iPhone](https://apps.apple.com/se/app/lang-track-app/id1500420448), [Repo](https://github.com/HumlabLu/HumlabLu)
 - [VeramLight](https://www.eat.lth.se/veram/), [web](https://veramdclu-515ae.web.app/login), [Android](https://play.google.com/store/apps/details?id=se.lu.veramlight&hl=en_US&gl=US), [iPhone](https://apps.apple.com/se/app/veramlight/id1549378358)
 <!--
